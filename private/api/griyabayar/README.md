@@ -9,6 +9,8 @@
     * [./format](#module_Griyabayar./format)
     * [./function-preinq](#module_Griyabayar./function-preinq)
     * [./function-inq](#module_Griyabayar./function-inq)
+    * _@_
+        * [.@](#module_Griyabayar.@)
 
 
 
@@ -97,4 +99,10 @@
 
 **Example**  
 ```:: Contoh 1CURL http://localhost:9999/api/griyabayar/function-inq?_id=griyabayar-617905NunoCell&kode_produk=800&nopel=087758437457&source=&kode=&harga=6050&cetak=0```
+
+
+<a name="module_Griyabayar.@"></a>
+### Griyabayar.@
+**Akses lebih dari 1 Akun**query `_id` digunakan untuk identifikasi lebih akun yang berbeda```GET api/griyabayar?_id=griyabayar-YOUR_ID```**Example**```:: Contoh akun 1CURL http://localhost:9999/api/griyabayar/page-login?_id=griyabayar-akun1:: Contoh akun 2CURL http://localhost:9999/api/griyabayar/page-login?_id=griyabayar-akun2```**Cluster transaksi**jika `_id` tidak diatur, akan dikirimkan ke terminal secara bergantian**Example**```:: Contoh 10 transaksi, dikirim ke 3 akunCURL http://localhost:9999/api/griyabayar/function-inq:: Terminal Akun1 -> Transaksi 1:: Terminal Akun2 -> Transaksi 2:: Terminal Akun3 -> Transaksi 3:: Terminal Akun1 -> Transaksi 4:: Terminal Akun2 -> Transaksi 5:: Terminal Akun3 -> Transaksi 6:: Terminal Akun1 -> Transaksi 7:: Terminal Akun2 -> Transaksi 8:: Terminal Akun3 -> Transaksi 9:: Terminal Akun1 -> Transaksi 10```
+
 
