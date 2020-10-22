@@ -6,3 +6,6 @@
 
 # dingklik
 Dingklik API dan Addon
+
+* [x] [![](https://img.shields.io/badge/readme-digiposaja-green)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-griyabayar-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
