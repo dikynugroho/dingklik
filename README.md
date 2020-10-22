@@ -6,7 +6,9 @@
 [![](https://img.shields.io/badge/whatsapp-ndiing-green)](https://web.whatsapp.com/send?phone=6281935155404&text=)
 
 # dingklik
-Dingklik API dan Addon
+Dingklik `Gateway API` dan `Addon OtomaX`
 
 * [x] [![](https://img.shields.io/badge/readme-digiposaja-green)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
 * [x] [![](https://img.shields.io/badge/readme-griyabayar-green)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-rita-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-sris-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
