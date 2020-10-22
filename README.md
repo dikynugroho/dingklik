@@ -8,10 +8,10 @@
 # dingklik
 AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
-* [x] [![](https://img.shields.io/badge/readme-digiposaja@telkomsel-green)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
-* [x] [![](https://img.shields.io/badge/readme-griyabayar@btn-green)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-rita@tri-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-sris@smartfren-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-sidompul@xl-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-myim3@indosat-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-whatsapp@facebook-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
+* [x] [![](https://img.shields.io/badge/readme-digiposaja@telkomsel-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
+* [x] [![](https://img.shields.io/badge/readme-griyabayar@btn-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-rita@tri-orange)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-sris@smartfren-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-sidompul@xl-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-myim3@indosat-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-whatsapp@facebook-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
