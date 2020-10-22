@@ -8,7 +8,7 @@
 # dingklik
 Dingklik `Gateway API` dan `Addon OtomaX`
 
-* [x] [![](https://img.shields.io/badge/readme-digiposaja-green)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
-* [x] [![](https://img.shields.io/badge/readme-griyabayar-green)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-rita-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-sris-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
+* [x] [![](https://img.shields.io/badge/readme-digiposaja@telkomsel-green)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
+* [x] [![](https://img.shields.io/badge/readme-griyabayar@btn-green)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-rita@tri-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
+* [ ] [![](https://img.shields.io/badge/readme-sris@smartfren-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
