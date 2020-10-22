@@ -3,6 +3,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ndiing/dingklik)](https://github.com/ndiing/dingklik/releases/latest)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/ndiing/dingklik?include_prereleases)](https://github.com/ndiing/dingklik/releases/latest)
 [![GitHub issues](https://img.shields.io/github/issues/ndiing/dingklik)](https://github.com/ndiing/dingklik/issues/new/choose)
+[![](https://img.shields.io/badge/whatsapp-ndiing-green)](https://web.whatsapp.com/send?phone=6281935155404&text=Bug report/Custom issue template/Feature request)
 
 # dingklik
 Dingklik API dan Addon
