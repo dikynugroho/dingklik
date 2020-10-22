@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/whatsapp-ndiing-green)](https://web.whatsapp.com/send?phone=6281935155404&text=)
 
 # dingklik
-Dingklik `Gateway API` dan `Addon OtomaX`
+AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 * [x] [![](https://img.shields.io/badge/readme-digiposaja@telkomsel-green)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
 * [x] [![](https://img.shields.io/badge/readme-griyabayar@btn-green)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
