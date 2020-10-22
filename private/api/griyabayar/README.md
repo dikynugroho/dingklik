@@ -35,7 +35,7 @@
 | MAC_ADD | <code>String</code> | MAC_ADD/mac address terdaftar, wajib diisi |
 
 **Example**  
-```CURL http://localhost:9999/api/griyabayar/page-login?_id=griyabayar-YOUR_ID&user_id=YOUR_USER_ID&pass=YOUR_PASS&MAC_ADD=YOUR_MAC_ADD```
+```CURL http://localhost:9999/api/griyabayar/page-login?_id=griyabayar-YOUR_ID&user_id=YOUR_USER_ID&pass=YOUR_PASS&MAC_ADD=E8:39:35:31:26:5C~18:5E:0F:4A:C2:25~1A:5E:0F:4A:C2:25~0A:00:27:00:00:04~0A:00:27:00:00:0B```
 
 
 <a name="module_Griyabayar./function-laporan"></a>
