@@ -15,3 +15,10 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 * [ ] [![](https://img.shields.io/badge/readme-sidompul@xl-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
 * [ ] [![](https://img.shields.io/badge/readme-myim3@indosat-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
 * [ ] [![](https://img.shields.io/badge/readme-whatsapp@facebook-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
+
+## status
+![](https://img.shields.io/badge/status-production-brightgreen)
+![](https://img.shields.io/badge/status-development-brightgreen)
+![](https://img.shields.io/badge/status-schedule-blue)
+![](https://img.shields.io/badge/status-bug-red)
+![](https://img.shields.io/badge/status-deprecated-lightgrey)
