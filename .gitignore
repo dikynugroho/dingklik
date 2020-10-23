@@ -1,5 +1,7 @@
 *
 !.gitignore
+!CHANGELOG.md
+!README.md
 !private
 !private/api
 !private/api
