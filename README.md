@@ -36,7 +36,7 @@ code %localappdata%/dingklik/env
 ```
 
 ### file env
-```json
+```js
 {
   "PORT": "9999", // http://localhost:9999/
   "EXECUTABLE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe", // Chrome Browser
