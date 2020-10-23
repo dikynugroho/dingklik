@@ -1,8 +1,8 @@
-# dingklik
+# Dingklik
 
 AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
-## info
+## Informasi
 
 -   [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/ndiing/dingklik?include_prereleases)](https://github.com/ndiing/dingklik/releases/latest)
 -   [![GitHub All Releases](https://img.shields.io/github/downloads/ndiing/dingklik/total)](https://github.com/ndiing/dingklik/releases/latest)
@@ -13,7 +13,7 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 -   [![](https://img.shields.io/badge/whatsapp-ndiing-green)](https://web.whatsapp.com/send?phone=6281935155404&text=)
 -   [![](https://img.shields.io/badge/whatsapp-anis@winarno-green)](https://web.whatsapp.com/send?phone=6281556880910&text=)
 
-## dokumentasi
+## Dokumentasi
 
 -   [x] [![](https://img.shields.io/badge/dokumentasi-digiposaja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
 -   [x] [![](https://img.shields.io/badge/dokumentasi-griyabayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
@@ -23,7 +23,7 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 -   [ ] [![](https://img.shields.io/badge/dokumentasi-myim3@https://myim3.indosatooredoo.com@latest-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
 -   [ ] [![](https://img.shields.io/badge/dokumentasi-whatsapp@https://web.whatsapp.com@2.2043.8-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
 
-## status
+## Status
 
 -   [![](https://img.shields.io/badge/status-maintenance-red)](https://github.com/ndiing/dingklik/issues/new/choose)
 -   [![](https://img.shields.io/badge/status-development-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
@@ -31,15 +31,9 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 -   [![](https://img.shields.io/badge/status-schedule-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
 -   [![](https://img.shields.io/badge/status-deprecated-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
 
-## sesuaikan
+## Environment
 
-### path
-
-```bash
-code %localappdata%/Dingklik/dingklik.env
-```
-
-### file
+Jika dibutuhkan penyesuaian pada aplikasi, dapat diatur pada file `dingklik.env`, di `%localappdata%/Dingklik`
 
 ```json
 {
