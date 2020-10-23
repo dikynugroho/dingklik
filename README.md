@@ -35,11 +35,27 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 Jika dibutuhkan penyesuaian pada aplikasi, dapat diatur pada file `dingklik.env`, di `%localappdata%/Dingklik`
 
-```json
+```js
 {
+    // PORT Server
+    // Default 9999
+    // http://localhost:9999/api/setting
     "PORT": "9999",
+
+    // Chrome Browser
+    // Sebagaian gateway API menggunakan browser dengan mode headless
+    // Seperti griyabayar dibutuhkan by pass captcha
     "EXECUTABLE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
+
+    // Database Server
+    // Digunakan untuk menyimpan informasi pengguna
+    // Seperti akun griyabayar dibutuhkan penyimpanan ke database
+    // yang nantinya digunakan untuk by pass login 
     "DATABASE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Database",
+
+    // User Data Browser
+    // Digunakan untuk menyimpan cookies dan storage
+    // Digunakan untuk menyimpan session agan tidak perlu login berulang
     "USERDATA_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Data"
 }
 ```
