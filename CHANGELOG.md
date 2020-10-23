@@ -11,10 +11,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - rita@com.hutchison.rita@1.2.9
 
 ## v0.0.10 [0.0.10]
-- published 22 hours ago
-
-## v0.0.8 [0.0.8]
-- published 2 days ago
+### Added
+- griyabayar@https://griyabayar.com@5.0.0
 
 ## v0.0.9 [0.0.9]
-- published 2 days ago
+### Added
+- digiposaja@com.telkomsel.digiposaja@5.1.6
+
+## v0.0.8 [0.0.8]
+### Added
+- Released
