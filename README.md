@@ -36,7 +36,7 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 ### path
 
 ```bash
-code %localappdata%/dingklik/dingklik.env
+code %localappdata%/Dingklik/dingklik.env
 ```
 
 ### file
