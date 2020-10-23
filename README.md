@@ -11,7 +11,7 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 -   [![GitHub last commit](https://img.shields.io/github/last-commit/ndiing/dingklik)](https://github.com/ndiing/dingklik/releases/latest)
 -   [![GitHub issues](https://img.shields.io/github/issues/ndiing/dingklik)](https://github.com/ndiing/dingklik/issues/new/choose)
 -   [![](https://img.shields.io/badge/whatsapp-ndiing-green)](https://web.whatsapp.com/send?phone=6281935155404&text=)
--   [![](https://img.shields.io/badge/whatsapp-anis@winarno-green)](https://web.whatsapp.com/send?phone=6287758236717&text=)
+-   [![](https://img.shields.io/badge/whatsapp-anis@winarno-green)](https://web.whatsapp.com/send?phone=6281556880910&text=)
 
 ## dokumentasi
 
