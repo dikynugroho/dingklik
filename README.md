@@ -11,7 +11,7 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 * [x] [![](https://img.shields.io/badge/readme-digiposaja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
 * [x] [![](https://img.shields.io/badge/readme-griyabayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
-* [x] [![](https://img.shields.io/badge/readme-rita@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
+* [x] [![](https://img.shields.io/badge/readme-rita@com.hutchison.rita@1.2.9-brightgreen) pending-release@0.0.11](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
 * [ ] [![](https://img.shields.io/badge/readme-sris@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
 * [ ] [![](https://img.shields.io/badge/readme-sidompul@com.toko.xl@2.2.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
 * [ ] [![](https://img.shields.io/badge/readme-myim3@https://myim3.indosatooredoo.com@latest-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
