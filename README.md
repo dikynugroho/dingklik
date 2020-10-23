@@ -1,11 +1,3 @@
-[![GitHub All Releases](https://img.shields.io/github/downloads/ndiing/dingklik/total)](https://github.com/ndiing/dingklik/releases/latest)
-[![GitHub Release Date](https://img.shields.io/github/release-date/ndiing/dingklik)](https://github.com/ndiing/dingklik/releases/latest)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ndiing/dingklik)](https://github.com/ndiing/dingklik/releases/latest)
-[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/ndiing/dingklik?include_prereleases)](https://github.com/ndiing/dingklik/releases/latest)
-[![GitHub issues](https://img.shields.io/github/issues/ndiing/dingklik)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/whatsapp-ndiing-green)](https://web.whatsapp.com/send?phone=6281935155404&text=)
-[![](https://img.shields.io/badge/whatsapp-anis@winarno-green)](https://web.whatsapp.com/send?phone=6287758236717&text=)
-
 # dingklik
 AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
@@ -18,9 +10,18 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 * [ ] [![](https://img.shields.io/badge/readme-whatsapp@https://web.whatsapp.com@2.2043.8-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
 * [x] [![](https://img.shields.io/badge/readme-changelog-blue)](https://github.com/ndiing/dingklik/blob/main/CHANGELOG.md)
 
+## info
+* [![GitHub All Releases](https://img.shields.io/github/downloads/ndiing/dingklik/total)](https://github.com/ndiing/dingklik/releases/latest)
+* [![GitHub Release Date](https://img.shields.io/github/release-date/ndiing/dingklik)](https://github.com/ndiing/dingklik/releases/latest)
+* [![GitHub last commit](https://img.shields.io/github/last-commit/ndiing/dingklik)](https://github.com/ndiing/dingklik/releases/latest)
+* [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/ndiing/dingklik?include_prereleases)](https://github.com/ndiing/dingklik/releases/latest)
+* [![GitHub issues](https://img.shields.io/github/issues/ndiing/dingklik)](https://github.com/ndiing/dingklik/issues/new/choose)
+* [![](https://img.shields.io/badge/whatsapp-ndiing-green)](https://web.whatsapp.com/send?phone=6281935155404&text=)
+* [![](https://img.shields.io/badge/whatsapp-anis@winarno-green)](https://web.whatsapp.com/send?phone=6287758236717&text=)
+
 ## status
-[![](https://img.shields.io/badge/status-production-brightgreen)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/status-development-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/status-schedule-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/status-bug-red)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/status-deprecated-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
+* [![](https://img.shields.io/badge/status-production-brightgreen)](https://github.com/ndiing/dingklik/issues/new/choose)
+* [![](https://img.shields.io/badge/status-development-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
+* [![](https://img.shields.io/badge/status-schedule-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
+* [![](https://img.shields.io/badge/status-bug-red)](https://github.com/ndiing/dingklik/issues/new/choose)
+* [![](https://img.shields.io/badge/status-deprecated-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
