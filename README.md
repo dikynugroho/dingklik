@@ -1,14 +1,14 @@
 # dingklik
 AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
-* [x] [![](https://img.shields.io/badge/readme-digiposaja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
-* [x] [![](https://img.shields.io/badge/readme-griyabayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
-* [x] [![](https://img.shields.io/badge/readme-rita@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-sris@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-sidompul@com.toko.xl@2.2.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-myim3@https://myim3.indosatooredoo.com@latest-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
-* [ ] [![](https://img.shields.io/badge/readme-whatsapp@https://web.whatsapp.com@2.2043.8-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
-* [x] [![](https://img.shields.io/badge/readme-changelog-blue)](https://github.com/ndiing/dingklik/blob/main/CHANGELOG.md)
+* [x] [![](https://img.shields.io/badge/dokumentasi-digiposaja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
+* [x] [![](https://img.shields.io/badge/dokumentasi-griyabayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
+* [x] [![](https://img.shields.io/badge/dokumentasi-rita@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
+* [ ] [![](https://img.shields.io/badge/dokumentasi-sris@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
+* [ ] [![](https://img.shields.io/badge/dokumentasi-sidompul@com.toko.xl@2.2.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+* [ ] [![](https://img.shields.io/badge/dokumentasi-myim3@https://myim3.indosatooredoo.com@latest-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
+* [ ] [![](https://img.shields.io/badge/dokumentasi-whatsapp@https://web.whatsapp.com@2.2043.8-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
+* [x] [![](https://img.shields.io/badge/dokumentasi-changelog-blue)](https://github.com/ndiing/dingklik/blob/main/CHANGELOG.md)
 
 ## info
 * [![GitHub All Releases](https://img.shields.io/github/downloads/ndiing/dingklik/total)](https://github.com/ndiing/dingklik/releases/latest)
