@@ -26,3 +26,25 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 * [![](https://img.shields.io/badge/status-production-brightgreen)](https://github.com/ndiing/dingklik/issues/new/choose)
 * [![](https://img.shields.io/badge/status-schedule-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
 * [![](https://img.shields.io/badge/status-deprecated-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
+
+
+## sesuaikan
+
+### lokasi env
+```bash
+code %localappdata%/dingklik/env
+```
+
+### file env
+```json
+{
+  "PORT": "9999", // http://localhost:9999/
+  "EXECUTABLE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe", // Chrome Browser
+  "DATABASE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Database", // Lokasi database
+  "USERDATA_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Data" // Lokasi browser user data
+}
+```
+
+## note
+* User interface dalam pengembangan
+* Gunakan API dengan status `production`
