@@ -33,20 +33,20 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 ## sesuaikan
 
-### lokasi env
+### path
 
 ```bash
-code %localappdata%/dingklik/env
+code %localappdata%/dingklik/dingklik.env
 ```
 
-### file env
+### file
 
 ```json
 {
-  "PORT": "9999",
-  "EXECUTABLE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
-  "DATABASE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Database",
-  "USERDATA_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Data"
+    "PORT": "9999",
+    "EXECUTABLE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
+    "DATABASE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Database",
+    "USERDATA_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Data"
 }
 ```
 
