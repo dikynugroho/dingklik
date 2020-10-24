@@ -89,11 +89,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   myim3@https://myim3.indosatooredoo.com@latest
 -   whatsapp@https://web.whatsapp.com@2.2043.8
 
+## [0.3.2] - 2020-10-24
+
+### Fixed
+
+-   System crash running instance - issue by `AnggiFauzi@085793712632`
+
 ## [0.3.1] - 2020-10-24
 
 ### Fixed
 
--   Error routing identity - issue by `AnggiFauzi@085793712632`
+-  Failed request with API worker - issue by `AnggiFauzi@085793712632`
 
 ## [0.3.0] - 2020-10-24
 
