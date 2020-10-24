@@ -33,15 +33,46 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 ## Environment
 
-Jika dibutuhkan penyesuaian pada aplikasi, dapat diatur pada file `dingklik.env`, di `%localappdata%/Dingklik`
+Default port `9999`, jika port sudah digunakan oleh aplikasi lain,
+sesuaikan port pada file `dingklik.env`, di lokasi `%localappdata%/Dingklik`
 
 ```js
+// Buka `run` dengan cara takan `ctrl + r`
+// lalu ketik %localappdata%/Dingklik
+// selanjutnya buka file `dingklik.env`
+// dan sesuaikan port yang ingin digunakan
+
+// Keterangan
 {
+    // PORT Server
+    // dibutuhkan untuk menjalankan service API
+    // melalui jalur http, contoh:
+    // http://localhost:9999/api/griyabayar
     "PORT": "9999",
-    "EXECUTABLE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
-    "DATABASE_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Database",
-    "USERDATA_PATH": "C:\\Users\\QWERTY\\AppData\\Local\\Dingklik\\Data"
+
+    // Browser
+    // dibutuhkan untuk melakukan otentikasi dan otoriasai
+    // beberapa gateway API dibutuhkan by pass login, captcha, dan pengaturan sesi
+    // dijalankan pada background service / mode headless
+    "EXECUTABLE_PATH": "C:\\Users\\DELL\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
+
+    // Database
+    // dikarenakan banyak akun bersifat bisnis dan pribadi
+    // kami tidak menyimpan data apapun, semua data disimpan
+    // pada local komputer masing, demi kenyamanan penggunaan
+    // dapat di cek menggunakan aplikasi network monitoring
+    // untuk mengetahui data keluar masuk pada jaringan
+    "DATABASE_PATH": "C:\\Users\\DELL\\AppData\\Local\\Dingklik\\Database",
+
+    // Userdata
+    // semua sesi browser disimpan pada folder ini
+    // kami memisahkan semua identitas yang digunakan pada jalur API
+    // sehingga dapat digunakan untuk multi / banyak akun dalam jalur API
+    "USERDATA_PATH": "C:\\Users\\DELL\\AppData\\Local\\Dingklik\\Data"
 }
+
+// simpan dan jalankan aplikasi,
+// selamat mencoba
 ```
 
 # Changelog
