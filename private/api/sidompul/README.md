@@ -3,8 +3,6 @@
 ## Sidompul
 
 * [Sidompul](#module_Sidompul)
-    * _);Service_
-        * [./v2/trx/history](#module_Sidompul./v2/trx/history)
     * _@_
         * [.@](#module_Sidompul.@)
     * _AccountService_
@@ -30,6 +28,7 @@
         * [./v1/loyalty/class](#module_Sidompul./v1/loyalty/class)
         * [./v1/loyalty/reward](#module_Sidompul./v1/loyalty/reward)
     * _TransactionService_
+        * [./v2/trx/history](#module_Sidompul./v2/trx/history)
         * [./v1/trx/w2p](#module_Sidompul./v1/trx/w2p)
         * [./v1/trx/package](#module_Sidompul./v1/trx/package)
         * [./v1/trx/redeem-voucher-sa](#module_Sidompul./v1/trx/redeem-voucher-sa)
@@ -42,23 +41,6 @@
         * [./v1/package/eligibility/:msisdn/B](#module_Sidompul./v1/package/eligibility/_msisdn/B)
         * [./v1/package/validity/:msisdn/:voucherCode/:cgis](#module_Sidompul./v1/package/validity/_msisdn/_voucherCode/_cgis)
 
-
-
-<a name="module_Sidompul./v2/trx/history"></a>
-### Sidompul./v2/trx/history
-**Request**```GET /v2/trx/history```
-
-
-| Param | Type | Default | Description |
-| --- | --- | --- | --- |
-| _id | <code>String</code> |  | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
-| startdate | <code>String</code> | <code>CURRENT_DATE-6</code> | startdate, format `yyyy-mm-dd` |
-| enddate | <code>String</code> | <code>CURRENT_DATE</code> | enddate, format `yyyy-mm-dd` |
-| startamount | <code>String</code> | <code>100</code> | startamount |
-| endamount | <code>String</code> | <code>1000000000</code> | endamount |
-
-**Example**  
-```CURL http://localhost:9999/api/sidompul/v2/trx/history?_id=```
 
 
 <a name="module_Sidompul.@"></a>
@@ -311,6 +293,23 @@
 
 **Example**  
 ```CURL http://localhost:9999/api/sidompul/v1/loyalty/reward?_id=```
+
+
+<a name="module_Sidompul./v2/trx/history"></a>
+### Sidompul./v2/trx/history
+**Request**```GET /v2/trx/history```
+
+
+| Param | Type | Default | Description |
+| --- | --- | --- | --- |
+| _id | <code>String</code> |  | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
+| startdate | <code>String</code> | <code>CURRENT_DATE-6</code> | startdate, format `yyyy-mm-dd` |
+| enddate | <code>String</code> | <code>CURRENT_DATE</code> | enddate, format `yyyy-mm-dd` |
+| startamount | <code>String</code> | <code>100</code> | startamount |
+| endamount | <code>String</code> | <code>1000000000</code> | endamount |
+
+**Example**  
+```CURL http://localhost:9999/api/sidompul/v2/trx/history?_id=```
 
 
 <a name="module_Sidompul./v1/trx/w2p"></a>
