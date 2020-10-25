@@ -5,6 +5,8 @@
 * [Sidompul](#module_Sidompul)
     * _);Service_
         * [./v2/trx/history](#module_Sidompul./v2/trx/history)
+    * _@_
+        * [.@](#module_Sidompul.@)
     * _AccountService_
         * [./v1/account/profile](#module_Sidompul./v1/account/profile)
         * [./v1/account/balance](#module_Sidompul./v1/account/balance)
@@ -52,6 +54,12 @@
 
 **Example**  
 ```CURL http://localhost:9999/api/sidompul/v2/trx/history?_id=```
+
+
+<a name="module_Sidompul.@"></a>
+### Sidompul.@
+**Akses lebih dari 1 Akun**query `_id` digunakan untuk identifikasi lebih akun yang berbeda```GET api/digiposaja?_id=digiposaja-YOUR_ID```**Example**```:: Contoh akun 1CURL http://localhost:9999/api/digiposaja/user/auth/v2?_id=digiposaja-akun1:: Contoh akun 2CURL http://localhost:9999/api/digiposaja/user/auth/v2?_id=digiposaja-akun2```**Cluster transaksi**jika `_id` tidak diatur, akan dikirimkan ke terminal secara bergantian**Example**```:: Contoh 10 transaksi, dikirim ke 3 akunCURL http://localhost:9999/api/digiposaja/recharge:: Terminal Akun1 -> Transaksi 1:: Terminal Akun2 -> Transaksi 2:: Terminal Akun3 -> Transaksi 3:: Terminal Akun1 -> Transaksi 4:: Terminal Akun2 -> Transaksi 5:: Terminal Akun3 -> Transaksi 6:: Terminal Akun1 -> Transaksi 7:: Terminal Akun2 -> Transaksi 8:: Terminal Akun3 -> Transaksi 9:: Terminal Akun1 -> Transaksi 10```
+
 
 
 <a name="module_Sidompul./v1/account/profile"></a>
