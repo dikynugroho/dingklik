@@ -71,7 +71,7 @@ sesuaikan port pada file `dingklik.env`, di lokasi `%localappdata%/Dingklik`
     "USERDATA_PATH": "C:\\Users\\DELL\\AppData\\Local\\Dingklik\\Data",
 
     // Serial Number
-    "KEY": "MINTA-SN-KE-INFORMASI-WA-DI-ATAS"
+    "KEY": "INPUT-REGISTERED-KEY"
 }
 
 // simpan dan jalankan aplikasi,
