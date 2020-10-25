@@ -26,12 +26,12 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 ## Status
 
--   [![](https://img.shields.io/badge/status-maintenance-red)](https://github.com/ndiing/dingklik/issues/new/choose)
 -   [![](https://img.shields.io/badge/status-development-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/status-soon-blueviolet)](https://github.com/ndiing/dingklik/issues/new/choose)
 -   [![](https://img.shields.io/badge/status-ready-brightgreen)](https://github.com/ndiing/dingklik/issues/new/choose)
 -   [![](https://img.shields.io/badge/status-scheduled-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/status-maintenance-red)](https://github.com/ndiing/dingklik/issues/new/choose)
 -   [![](https://img.shields.io/badge/status-obsolete-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
--   [![](https://img.shields.io/badge/status-soon-blueviolet)](https://github.com/ndiing/dingklik/issues/new/choose)
 
 ## Environment
 
