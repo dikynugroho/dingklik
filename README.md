@@ -19,9 +19,10 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 -   [x] [![](https://img.shields.io/badge/dokumentasi-griyabayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
 -   [x] [![](https://img.shields.io/badge/dokumentasi-rita@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
 -   [ ] [![](https://img.shields.io/badge/dokumentasi-sris@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
--   [x] [![](https://img.shields.io/badge/dokumentasi-sidompul@com.toko.xl@2.2.5-brightgreen) Pending v0.4.3](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [x] [![](https://img.shields.io/badge/dokumentasi-sidompul@com.toko.xl@2.2.5-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md) [![](https://img.shields.io/badge/pending-v0.4.3-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
 -   [ ] [![](https://img.shields.io/badge/dokumentasi-myim3@https://myim3.indosatooredoo.com@latest-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
 -   [ ] [![](https://img.shields.io/badge/dokumentasi-whatsapp@https://web.whatsapp.com@2.2043.8-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
+
 
 ## Status
 
