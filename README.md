@@ -97,6 +97,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   myim3@https://myim3.indosatooredoo.com@latest
 -   whatsapp@https://web.whatsapp.com@2.2043.8
 
+## [0.4.1] - 2020-10-25
+
+### Fixed
+
+-   Update downloaded pending - issue by `AnggiFauzi@085793712632`
+
 ## [0.4.0] - 2020-10-25
 
 ### Added
