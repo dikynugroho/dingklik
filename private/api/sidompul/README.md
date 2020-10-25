@@ -349,7 +349,7 @@
 
 <a name="module_Sidompul./v1/trx/redeem-voucher-sa"></a>
 ### Sidompul./v1/trx/redeem-voucher-sa
-**Request**```GET /v1/trx/redeem-voucher-sa```
+**Request**Transfer Kuota```GET /v1/trx/redeem-voucher-sa```
 
 
 | Param | Type | Description |
@@ -365,7 +365,7 @@
 
 <a name="module_Sidompul./v1/trx/package-transfer"></a>
 ### Sidompul./v1/trx/package-transfer
-**Request**```GET /v1/trx/package-transfer```
+**Request**Transfer KuotaTransfer Quota SP Hybrid```GET /v1/trx/package-transfer```
 
 
 | Param | Type | Description |
@@ -425,7 +425,7 @@
 
 <a name="module_Sidompul./v1/package/eligibility/_msisdn/A"></a>
 ### Sidompul./v1/package/eligibility/:msisdn/A
-**Request**```GET /v1/package/eligibility/:msisdn/A```
+**Request**Cek Transfer QuotaNomor Pengirim```GET /v1/package/eligibility/:msisdn/A```
 
 
 | Param | Type | Description |
@@ -439,7 +439,7 @@
 
 <a name="module_Sidompul./v1/package/eligibility/_msisdn/B"></a>
 ### Sidompul./v1/package/eligibility/:msisdn/B
-**Request**```GET /v1/package/eligibility/:msisdn/B```
+**Request**Cek Transfer QuotaNomor Penerima```GET /v1/package/eligibility/:msisdn/B```
 
 
 | Param | Type | Description |
@@ -453,7 +453,7 @@
 
 <a name="module_Sidompul./v1/package/validity/_msisdn/_voucherCode/_cgis"></a>
 ### Sidompul./v1/package/validity/:msisdn/:voucherCode/:cgis
-**Request**```GET /v1/package/validity/:msisdn/:voucherCode/:cgis```
+**Request**Cek Voucher Hybrid```GET /v1/package/validity/:msisdn/:voucherCode/:cgis```
 
 
 | Param | Type | Description |
