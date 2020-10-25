@@ -78,6 +78,11 @@ sesuaikan port pada file `dingklik.env`, di lokasi `%localappdata%/Dingklik`
 // selamat mencoba
 ```
 
+## Note
+
+-   User interface dalam aplikasi belum tersedia
+-   Default access API di `http://localhost:9999/`
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -108,7 +113,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
--  Failed request with API worker - issue by `AnggiFauzi@085793712632`
+-   Failed request with API worker - issue by `AnggiFauzi@085793712632`
 
 ## [0.3.0] - 2020-10-24
 
