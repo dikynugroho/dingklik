@@ -68,7 +68,10 @@ sesuaikan port pada file `dingklik.env`, di lokasi `%localappdata%/Dingklik`
     // semua sesi browser disimpan pada folder ini
     // kami memisahkan semua identitas yang digunakan pada jalur API
     // sehingga dapat digunakan untuk multi / banyak akun dalam jalur API
-    "USERDATA_PATH": "C:\\Users\\DELL\\AppData\\Local\\Dingklik\\Data"
+    "USERDATA_PATH": "C:\\Users\\DELL\\AppData\\Local\\Dingklik\\Data",
+
+    // Serial Number
+    "KEY": "MINTA-SN-KE-INFORMASI-WA-DI-ATAS",
 }
 
 // simpan dan jalankan aplikasi,
