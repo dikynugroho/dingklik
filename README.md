@@ -92,6 +92,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   myim3@https://myim3.indosatooredoo.com@latest
 -   whatsapp@https://web.whatsapp.com@2.2043.8
 
+## [0.4.0] - 2020-10-25
+
+### Added
+
+-   Security added, hanya UUID yang terdaftar dapat mengakses aplikasi, minta KEY di WA lihat informasi
+
 ## [0.3.2] - 2020-10-24
 
 ### Fixed
