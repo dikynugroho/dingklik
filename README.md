@@ -83,6 +83,8 @@ sesuaikan port pada file `dingklik.env`, di lokasi `%localappdata%/Dingklik`
 -   User interface dalam aplikasi belum tersedia
 -   Default access API di `http://localhost:9999/`
 -   Cek status & Cek Update pada aplikasi, `bukan error`, keterangan masih sama dengan poin 1 interface sedang dikerjakan
+-   Download update secara otomatis, butuh tindakan update seletah ada pemberitahuan, mengantisipasi adanya transaksi yang sedang berjalan
+-   Boleh tidak melakukan update selama `2v` sebelumnya, tetapi wajib update jika terdapat perubahan API dari vendor, sifat `penting`
 
 # Changelog
 
