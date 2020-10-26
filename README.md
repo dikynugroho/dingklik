@@ -14,22 +14,23 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 ## Dokumentasi
 
--   [![](https://img.shields.io/badge/dokumentasi-digiposaja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
+-   [![](https://img.shields.io/badge/dokumentasi-DigiposAja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
 -   [![](https://img.shields.io/badge/dokumentasi-griyabayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
--   [![](https://img.shields.io/badge/dokumentasi-rita@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
+-   [![](https://img.shields.io/badge/dokumentasi-RITA@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
 -   [![](https://img.shields.io/badge/dokumentasi-sris@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
--   [![](https://img.shields.io/badge/dokumentasi-sidompul@com.toko.xl@2.2.5-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
--   [![](https://img.shields.io/badge/dokumentasi-myim3@https://myim3.indosatooredoo.com@latest-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
--   [![](https://img.shields.io/badge/dokumentasi-whatsapp@https://web.whatsapp.com@2.2043.8-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
+-   [![](https://img.shields.io/badge/dokumentasi-SiDOMPUL@com.toko.xl@2.2.5-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [![](https://img.shields.io/badge/dokumentasi-MyTelkomsel@com.telkomsel.telkomselcm@5.6.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [![](https://img.shields.io/badge/dokumentasi-LinkAja@com.telkom.mwallet@4.12.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [![](https://img.shields.io/badge/dokumentasi-SIMPEL@com.digital.indosat.dealerapp@1.3.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
 
 ## Status
 
--   [![](https://img.shields.io/badge/status-dikerjakan-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
--   [![](https://img.shields.io/badge/status-segera-blueviolet)](https://github.com/ndiing/dingklik/issues/new/choose)
--   [![](https://img.shields.io/badge/status-rilis-brightgreen)](https://github.com/ndiing/dingklik/issues/new/choose)
--   [![](https://img.shields.io/badge/status-dijadwalkan-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
--   [![](https://img.shields.io/badge/status-perbaikan-red)](https://github.com/ndiing/dingklik/issues/new/choose)
--   [![](https://img.shields.io/badge/status-kadaluarsa-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/status-development-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/status-soon-blueviolet)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/status-release-brightgreen)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/status-schedule-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/status-error-red)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/status-obsolete-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
 
 ## Environment
 
