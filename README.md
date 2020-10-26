@@ -1,9 +1,3 @@
-# Dingklik
-
-AIO (All In One) `Gateway API` dan `Addon OtomaX`
-
-## Informasi
-
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/ndiing/dingklik?include_prereleases)](https://github.com/ndiing/dingklik/releases/latest)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ndiing/dingklik/total)](https://github.com/ndiing/dingklik/releases/latest)
 [![GitHub Releases](https://img.shields.io/github/downloads/ndiing/dingklik/latest/total)](https://github.com/ndiing/dingklik/releases/latest)
@@ -12,7 +6,13 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 [![GitHub issues](https://img.shields.io/github/issues/ndiing/dingklik)](https://github.com/ndiing/dingklik/issues/new/choose)
 [![Discord](https://img.shields.io/discord/769894286484832288)](https://discord.gg/8BsAv5b)
 
-## Status
+# Dingklik
+
+AIO (All In One) `Gateway API` dan `Addon OtomaX`
+
+## Informasi
+
+### Status
 
 [![](https://img.shields.io/badge/Status-Development-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
 [![](https://img.shields.io/badge/Status-Soon-blueviolet)](https://github.com/ndiing/dingklik/issues/new/choose)
@@ -21,7 +21,7 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 [![](https://img.shields.io/badge/Status-Error-red)](https://github.com/ndiing/dingklik/issues/new/choose)
 [![](https://img.shields.io/badge/Status-Obsolete-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
 
-## Dokumentasi
+### Dokumentasi
 
 -   [x] [![](https://img.shields.io/badge/Baca-DigiposAja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
 -   [x] [![](https://img.shields.io/badge/Baca-GriyaBayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
