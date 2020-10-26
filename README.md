@@ -23,14 +23,14 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 ## Dokumentasi
 
--   [![](https://img.shields.io/badge/Baca-DigiposAja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
--   [![](https://img.shields.io/badge/Baca-GriyaBayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
--   [![](https://img.shields.io/badge/Baca-RITA@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
--   [![](https://img.shields.io/badge/Baca-SRIS@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
--   [![](https://img.shields.io/badge/Baca-SiDOMPUL@com.toko.xl@2.2.5-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
--   [![](https://img.shields.io/badge/Baca-MyTelkomsel@com.telkomsel.telkomselcm@5.6.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
--   [![](https://img.shields.io/badge/Baca-LinkAja@com.telkom.mwallet@4.12.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
--   [![](https://img.shields.io/badge/Baca-SIMPEL@com.digital.indosat.dealerapp@1.3.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [x] [![](https://img.shields.io/badge/Baca-DigiposAja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
+-   [x] [![](https://img.shields.io/badge/Baca-GriyaBayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
+-   [x] [![](https://img.shields.io/badge/Baca-RITA@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
+-   [ ] [![](https://img.shields.io/badge/Baca-SRIS@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
+-   [x] [![](https://img.shields.io/badge/Baca-SiDOMPUL@com.toko.xl@2.2.5-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [ ] [![](https://img.shields.io/badge/Baca-MyTelkomsel@com.telkomsel.telkomselcm@5.6.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [ ] [![](https://img.shields.io/badge/Baca-LinkAja@com.telkom.mwallet@4.12.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [ ] [![](https://img.shields.io/badge/Baca-SIMPEL@com.digital.indosat.dealerapp@1.3.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
 
 ## Environment
 
