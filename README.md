@@ -104,7 +104,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Note
 
--   Perlu tindakan manual untuk ini, mohon uninstall aplikasi `dingklik` terlebih dahulu sebelum update terbaru
+-   Perlu tindakan manual untuk ini, uninstall aplikasi `dingklik` terlebih dahulu sebelum update terbaru
 -   `Database`/`Userdata`/`Sesi`/`SN` tidak hilang saat uninstall, dan dapat melanjutkan kembali saat menggunakan update terbaru
 
 ## [0.5.0] - 2020-10-26
