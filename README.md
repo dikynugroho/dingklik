@@ -93,6 +93,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- ## [Unreleased] -->
 
+## [0.5.1] - 2020-10-26
+
+### Fixed
+
+-   Kesalahan `path` system instalasi, kami temukan aplikasi terinstal pada 2 path yaitu `program files` dan `program data`
+
+### Note
+
+-   Perlu tindakan manual untuk ini, mohon uninstall aplikasi `dingklik` terlebih dahulu sebelum update terbaru
+-   `Database`/`Userdata`/`Sesi`/`SN` tidak hilang saat uninstall, dan dapat melanjutkan kembali saat menggunakan update terbaru
+
 ## [0.5.0] - 2020-10-26
 
 ### Added
