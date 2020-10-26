@@ -19,6 +19,7 @@
         * [./v1/content/api/productitemlist](#module_Sidompul./v1/content/api/productitemlist)
         * [./v1/content/api/productbestoffer](#module_Sidompul./v1/content/api/productbestoffer)
     * _LoginService_
+        * [./v1/auth/logout](#module_Sidompul./v1/auth/logout)
         * [./v1/auth/otp/:msisdn](#module_Sidompul./v1/auth/otp/_msisdn)
         * [./v1/auth/otp/:msisdn/:otp/](#module_Sidompul./v1/auth/otp/_msisdn/_otp/)
         * [./v1/login/token/firebase](#module_Sidompul./v1/login/token/firebase)
@@ -39,7 +40,7 @@
         * [./v1/package/check/:phone](#module_Sidompul./v1/package/check/_phone)
         * [./v1/package/eligibility/:msisdn/A](#module_Sidompul./v1/package/eligibility/_msisdn/A)
         * [./v1/package/eligibility/:msisdn/B](#module_Sidompul./v1/package/eligibility/_msisdn/B)
-        * [./v1/package/validity/:msisdn/:voucherCode/:cgis](#module_Sidompul./v1/package/validity/_msisdn/_voucherCode/_cgis)
+        * [./v1/package/validity/:msisdn/:voucherCode/](#module_Sidompul./v1/package/validity/_msisdn/_voucherCode/)
 
 
 
@@ -59,7 +60,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/account/profile?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/account/profile?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/account/balance"></a>
@@ -72,7 +73,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/account/balance?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/account/balance?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/inbox"></a>
@@ -85,7 +86,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/inbox?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/inbox?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/account/pin/_pin"></a>
@@ -99,7 +100,7 @@
 | pin | <code>String</code> | pin |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/account/pin/:pin?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/account/pin/1234?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/content/api/loyaltyprogram"></a>
@@ -112,7 +113,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/content/api/loyaltyprogram?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/content/api/loyaltyprogram?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/content/personalhomepage"></a>
@@ -125,7 +126,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/content/personalhomepage?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/content/personalhomepage?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/content/api/denom"></a>
@@ -139,7 +140,7 @@
 | brand | <code>String</code> | brand |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/content/api/denom?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/content/api/denom?_id=sidompul-6281938064470&brand=XL```
 
 
 <a name="module_Sidompul./v1/content/api/productcategories"></a>
@@ -153,7 +154,7 @@
 | brand | <code>String</code> | brand |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/content/api/productcategories?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/content/api/productcategories?_id=sidompul-6281938064470&brand=XL```
 
 
 <a name="module_Sidompul./v1/content/api/productflashsale"></a>
@@ -168,7 +169,7 @@
 | product_category | <code>String</code> | product_category |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/content/api/productflashsale?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/content/api/productflashsale?_id=sidompul-6281938064470&brand=XL&product_category=XTRA+UNLIMITED+TURBO```
 
 
 <a name="module_Sidompul./v1/content/api/productitemlist"></a>
@@ -183,7 +184,7 @@
 | product_category | <code>String</code> | product_category |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/content/api/productitemlist?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/content/api/productitemlist?_id=sidompul-6281938064470&brand=XL&product_category=XTRA+UNLIMITED+TURBO```
 
 
 <a name="module_Sidompul./v1/content/api/productbestoffer"></a>
@@ -198,7 +199,21 @@
 | product_category | <code>String</code> | product_category |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/content/api/productbestoffer?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/content/api/productbestoffer?_id=sidompul-6281938064470&brand=XL&product_category=XTRA+UNLIMITED+TURBO```
+
+
+<a name="module_Sidompul./v1/auth/logout"></a>
+### Sidompul./v1/auth/logout
+**Request**```GET /v1/auth/logout```
+
+
+| Param | Type | Description |
+| --- | --- | --- |
+| _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
+| msisdn | <code>String</code> | msisdn |
+
+**Example**  
+```CURL http://localhost:9999/api/sidompul/v1/auth/logout?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/auth/otp/_msisdn"></a>
@@ -212,12 +227,12 @@
 | msisdn | <code>String</code> | msisdn |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/auth/otp/:msisdn?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/auth/otp/6281938064470?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/auth/otp/_msisdn/_otp/"></a>
 ### Sidompul./v1/auth/otp/:msisdn/:otp/
-**Request**```GET /v1/auth/otp/:msisdn/:otp/:imei```
+**Request**```GET /v1/auth/otp/:msisdn/:otp```
 
 
 | Param | Type | Description |
@@ -227,7 +242,7 @@
 | otp | <code>String</code> | otp |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/auth/otp/:msisdn/:otp/?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/auth/otp/6281938064470/001433?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/login/token/firebase"></a>
@@ -240,7 +255,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/login/token/firebase?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/login/token/firebase?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/login/token/favicon"></a>
@@ -253,7 +268,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/login/token/favicon?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/login/token/favicon?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/login/token/refresh"></a>
@@ -266,7 +281,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/login/token/refresh?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/login/token/refresh?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/loyalty/class"></a>
@@ -279,7 +294,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/loyalty/class?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/loyalty/class?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/loyalty/reward"></a>
@@ -292,7 +307,7 @@
 | _id | <code>String</code> | prefix `sidompul-`, wajib diisi, digunakan untuk multi akun |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/loyalty/reward?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/loyalty/reward?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v2/trx/history"></a>
@@ -309,7 +324,7 @@
 | endamount | <code>String</code> | <code>1000000000</code> | endamount |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v2/trx/history?_id=```
+```:: Contoh 1CURL http://localhost:9999/api/sidompul/v2/trx/history?_id=sidompul-6281938064470:: Contoh 1CURL http://localhost:9999/api/sidompul/v2/trx/history?_id=sidompul-6281938064470&startdate=2020-10-25&enddate=2020-10-25```
 
 
 <a name="module_Sidompul./v1/trx/w2p"></a>
@@ -325,7 +340,7 @@
 | pin | <code>String</code> | pin |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/trx/w2p?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/trx/w2p?_id=sidompul-6281938064470&denom=5000&msisdn=6287758437457&pin=1234```
 
 
 <a name="module_Sidompul./v1/trx/package"></a>
@@ -343,7 +358,7 @@
 | pin | <code>String</code> | pin |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/trx/package?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/trx/package?_id=sidompul-6281938064470&msisdn=6287758457457&offerId=&originalProduct=XKML10&productCode=XKML10&pin=1234```
 
 
 <a name="module_Sidompul./v1/trx/redeem-voucher-sa"></a>
@@ -359,7 +374,7 @@
 | pin | <code>String</code> | pin |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/trx/redeem-voucher-sa?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/trx/redeem-voucher-sa?_id=sidompul-6281938064470&hrn=7729012676709306&msisdn=6287758437457&pin=1234```
 
 
 <a name="module_Sidompul./v1/trx/package-transfer"></a>
@@ -376,7 +391,7 @@
 | hrn | <code>String</code> | hrn |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/trx/package-transfer?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/trx/package-transfer?_id=sidompul-6281938064470&pin=1234&msisdn=6287758437457&digitspwl=6287758437457&hrn=7729012676709306```
 
 
 <a name="module_Sidompul./v1/common/prefix/_phonePrefix"></a>
@@ -390,7 +405,7 @@
 | phonePrefix | <code>String</code> | phonePrefix |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/common/prefix/:phonePrefix?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/common/prefix/6287758?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/sp/registration"></a>
@@ -405,7 +420,7 @@
 | pin | <code>String</code> | pin |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/sp/registration?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/sp/registration?_id=sidompul-6281938064470&msisdn=6287758437457&pin=1234```
 
 
 <a name="module_Sidompul./v1/package/check/_phone"></a>
@@ -419,7 +434,7 @@
 | phone | <code>String</code> | phone |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/package/check/:phone?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/package/check/6287758437457?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/package/eligibility/_msisdn/A"></a>
@@ -433,7 +448,7 @@
 | msisdn | <code>String</code> | msisdn |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/package/eligibility/:msisdn/A?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/package/eligibility/6287758437457/A?_id=sidompul-6281938064470```
 
 
 <a name="module_Sidompul./v1/package/eligibility/_msisdn/B"></a>
@@ -447,12 +462,12 @@
 | msisdn | <code>String</code> | msisdn |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/package/eligibility/:msisdn/B?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/package/eligibility/6287758437457/B?_id=sidompul-6281938064470```
 
 
-<a name="module_Sidompul./v1/package/validity/_msisdn/_voucherCode/_cgis"></a>
-### Sidompul./v1/package/validity/:msisdn/:voucherCode/:cgis
-**Request**Cek Voucher Hybrid```GET /v1/package/validity/:msisdn/:voucherCode/:cgis```
+<a name="module_Sidompul./v1/package/validity/_msisdn/_voucherCode/"></a>
+### Sidompul./v1/package/validity/:msisdn/:voucherCode/
+**Request**Cek Voucher Hybrid```GET /v1/package/validity/:msisdn/:voucherCode/```
 
 
 | Param | Type | Description |
@@ -462,5 +477,5 @@
 | voucherCode | <code>String</code> | voucherCode |
 
 **Example**  
-```CURL http://localhost:9999/api/sidompul/v1/package/validity/:msisdn/:voucherCode/:cgis?_id=```
+```CURL http://localhost:9999/api/sidompul/v1/package/validity/:msisdn/:voucherCode/?_id=sidompul-6281938064470&msisdn=6287758437457&voucherCode=7729012676709306```
 

@@ -18,10 +18,9 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 -   [![](https://img.shields.io/badge/dokumentasi-griyabayar@https://griyabayar.com@5.0.0-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/griyabayar/README.md)
 -   [![](https://img.shields.io/badge/dokumentasi-rita@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
 -   [![](https://img.shields.io/badge/dokumentasi-sris@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
--   [![](https://img.shields.io/badge/dokumentasi-sidompul@com.toko.xl@2.2.5-blueviolet)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [![](https://img.shields.io/badge/dokumentasi-sidompul@com.toko.xl@2.2.5-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
 -   [![](https://img.shields.io/badge/dokumentasi-myim3@https://myim3.indosatooredoo.com@latest-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/myim3/README.md)
 -   [![](https://img.shields.io/badge/dokumentasi-whatsapp@https://web.whatsapp.com@2.2043.8-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/whatsapp/README.md)
-
 
 ## Status
 
@@ -92,6 +91,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ## [Unreleased] -->
+
+## [0.5.0] - 2020-10-26
+
+### Added
+
+-   sidompul@com.toko.xl@2.2.5
+
+### Note
+
+-   API FIX/Normal, kecuali penanganan sesi, yang akan kita kerjakan next update
+-   API refresh token belum kami dapatkan
+-   Mungkin terjadi logout dalam 1 hari penggunaan
+-   Akan kita update setelah didapatkan `segera`
 
 ## [0.4.2] - 2020-10-26
 
