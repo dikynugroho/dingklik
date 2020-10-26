@@ -12,15 +12,6 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 
 ## Informasi
 
-### Status
-
-[![](https://img.shields.io/badge/Status-Development-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/Status-Soon-blueviolet)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/Status-Release-brightgreen)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/Status-Schedule-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/Status-Error-red)](https://github.com/ndiing/dingklik/issues/new/choose)
-[![](https://img.shields.io/badge/Status-Obsolete-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
-
 ### Dokumentasi
 
 -   [x] [![](https://img.shields.io/badge/Baca-DigiposAja@com.telkomsel.digiposaja@5.1.6-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/digiposaja/README.md)
@@ -31,6 +22,15 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 -   [ ] [![](https://img.shields.io/badge/Baca-MyTelkomsel@com.telkomsel.telkomselcm@5.6.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
 -   [ ] [![](https://img.shields.io/badge/Baca-LinkAja@com.telkom.mwallet@4.12.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
 -   [ ] [![](https://img.shields.io/badge/Baca-SIMPEL@com.digital.indosat.dealerapp@1.3.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+
+### Status
+
+-   [![](https://img.shields.io/badge/Status-Development-yellow)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/Status-Soon-blueviolet)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/Status-Release-brightgreen)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/Status-Schedule-blue)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/Status-Error-red)](https://github.com/ndiing/dingklik/issues/new/choose)
+-   [![](https://img.shields.io/badge/Status-Obsolete-lightgrey)](https://github.com/ndiing/dingklik/issues/new/choose)
 
 ## Environment
 
