@@ -19,9 +19,12 @@ AIO (All In One) `Gateway API` dan `Addon OtomaX`
 -   [![](https://img.shields.io/badge/Baca-RITA@com.hutchison.rita@1.2.9-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/rita/README.md)
 -   [![](https://img.shields.io/badge/Baca-SRIS@https://sris.smartfren.com@1.2.42-yellow)](https://github.com/ndiing/dingklik/blob/main/private/api/sris/README.md)
 -   [![](https://img.shields.io/badge/Baca-SiDOMPUL@com.toko.xl@2.2.5-brightgreen)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
--   [![](https://img.shields.io/badge/Baca-MyTelkomsel@com.telkomsel.telkomselcm@5.6.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
--   [![](https://img.shields.io/badge/Baca-LinkAja@com.telkom.mwallet@4.12.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
--   [![](https://img.shields.io/badge/Baca-SIMPEL@com.digital.indosat.dealerapp@1.3.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/sidompul/README.md)
+-   [![](https://img.shields.io/badge/Baca-MyTelkomsel@com.telkomsel.telkomselcm@5.6.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/mytelkomsel/README.md)
+-   [![](https://img.shields.io/badge/Baca-LinkAja@com.telkom.mwallet@4.12.0-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/linkaja/README.md)
+-   [![](https://img.shields.io/badge/Baca-SIMPEL@com.digital.indosat.dealerapp@1.3.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/simpel/README.md)
+-   [![](https://img.shields.io/badge/Baca-MitraShopee@com.shopee.mitra.id@1.19.1-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/mitrashopee/README.md)
+-   [![](https://img.shields.io/badge/Baca-MitraTokopedia@com.tokopedia.kelontongapp@1.4.19.2-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/mitratokopedia/README.md)
+-   [![](https://img.shields.io/badge/Baca-MitraBukalapak@com.bukalapak.mitra@1.43.5-blue)](https://github.com/ndiing/dingklik/blob/main/private/api/mitrabukalapak/README.md)
 
 ### Status
 
