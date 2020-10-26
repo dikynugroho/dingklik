@@ -152,20 +152,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -   rita@com.hutchison.rita@1.2.9
 
-## v0.0.10 [0.0.10]
+## v0.0.10 [0.0.10] - 2020-10-22
 
 ### Added
 
 -   griyabayar@https://griyabayar.com@5.0.0
 
-## v0.0.9 [0.0.9]
+## v0.0.9 [0.0.9] - 2020-10-21
 
 ### Added
 
 -   digiposaja@com.telkomsel.digiposaja@5.1.6
 
-## v0.0.8 [0.0.8]
+## v0.0.8 [0.0.8] - 2020-10-20
 
 ### Added
 
--   Released
+-   `Pre Release`
